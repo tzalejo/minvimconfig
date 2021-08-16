@@ -1,0 +1,6 @@
+autoload/*
+lua/*
+plugged/*
+session/*
+
+
